@@ -1,0 +1,24 @@
+#Kennedy Costa de Sousa - ADM 
+"Lista de Exercício sobre Variáveis"
+
+#1) nome=Kennedy   
+#2) idade=19
+#3) altura=1.60
+#4) nome=string, idade=inteiro, altura=float
+#5) a=5, b=3
+#6) a+b=8, a-b=2, a*b=15, a/b=1.666..., (a%b)=2
+#7) x=10, y=20
+#8) x,y = y,x
+#9) x=20, y=10
+#10) primeiro_nome="Kennedy ", sobrenome=" Costa de Sousa"
+#11) nome_completo=primeiro_nome+sobrenome
+#12) print(nome_completo) = Kennedy Costa de Sousa
+#13) nota1=9, nota2=3, nota3=7
+#14) média=(nota1+nota2+nota3)/3
+#15) print(média) = 6.333...
+#16) nome_usuario=input("Por fazor insira seu nome:")
+#17) idade_usuario=input("Incira a sua idade:")
+#18) print("Olá, você tem " + idade_usuario + " anos.")
+#19) numero_str="123"
+#20) ???
+#22) ???
